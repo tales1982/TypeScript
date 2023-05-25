@@ -22,3 +22,8 @@ const mentira: boolean = false;
 console.log(`${fristname} tem ${ age} ${ verdade}`);
 console.log(`${fristname} tem ${age - 10} anos ${mentira}`);
 console.log(typeof verdade, typeof lastName)
+
+//convert number to string
+const n1: number = 10;
+const myNumberToString = n1.toString()
+console.log(typeof myNumberToString,typeof n1,); 
