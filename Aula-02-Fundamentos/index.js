@@ -1,19 +1,20 @@
+"use strict";
 //NUBER
-var a = 20;
-var b = 10.12345;
+let a = 20;
+let b = 10.12345;
 console.log(a, b);
 console.log(typeof a);
 console.log(b.toPrecision(3));
 //STRING
-var fristname = "Tales";
+let fristname = "Tales";
 console.log(fristname.toUpperCase());
-var lastName = "Lima";
-var age = 40;
-var fullName = fristname + "  " + lastName;
+const lastName = "Lima";
+const age = 40;
+const fullName = fristname + "  " + lastName;
 console.log(fullName + " " + "tem " + age + " anos.");
 //boolean
-var verdade = true;
-var mentira = false;
-console.log("".concat(fristname, " tem ").concat(age, " ").concat(verdade));
-console.log("".concat(fristname, " tem ").concat(age - 10, " anos ").concat(mentira));
-console.log(typeof verdade, typeof fristname);
+const verdade = true;
+const mentira = false;
+console.log(`${fristname} tem ${age} ${verdade}`);
+console.log(`${fristname} tem ${age - 10} anos ${mentira}`);
+console.log(typeof verdade, typeof lastName);

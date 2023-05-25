@@ -21,4 +21,4 @@ const mentira: boolean = false;
 
 console.log(`${fristname} tem ${ age} ${ verdade}`);
 console.log(`${fristname} tem ${age - 10} anos ${mentira}`);
-console.log(typeof verdade, typeof fristname)
+console.log(typeof verdade, typeof lastName)
