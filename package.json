@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "My TypeScript Project Welcome to my TypeScript project! This repository contains the source code for my project, which was developed using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tales1982/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tales1982/TypeScript/issues"
+  },
+  "homepage": "https://github.com/tales1982/TypeScript#readme"
+}
