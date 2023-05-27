@@ -11,3 +11,22 @@ function sum(a:number,b:number){
 }
 
 console.log(sum(5,9))
+
+//Retorno de funcao
+
+function saudacao(nome:string):string{
+    return `Ola ${nome}`
+}
+
+console.log(saudacao("THEO"))
+console.log(saudacao("Tales"),"Voce tem " ,sum(10,30), "Anos");
+
+//funcoes anonimas
+//o setTimeout permite executar uma funcao anonima como argumento.
+
+ setTimeout(function(){
+    
+    const salario:number = 1000
+    console.log(salario)
+ })
+ 
