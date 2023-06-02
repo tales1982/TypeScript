@@ -8,9 +8,9 @@ It includes simple examples and exercises that cover different TypeScript concep
 prerequisites
 Before you start using this project, you need to have the following installed:
 
-Node.js (version X.X.X)
-npm (version X.X.X)
-TypeScript (version X.X.X)
+Node.js 
+npm 
+TypeScript 
 Installation
 Follow the steps below to install and configure the project:
 
@@ -73,9 +73,9 @@ Il comprend des exemples simples et des exercices qui couvrent différents conce
 conditions préalables
 Avant de commencer à utiliser ce projet, vous devez avoir installé les éléments suivants :
 
-Node.js (version X.X.X)
-npm (version X.X.X)
-TypeScript (version X.X.X)
+Node.js 
+npm 
+TypeScript 
 Installation
 Suivez les étapes ci-dessous pour installer et configurer le projet :
 
@@ -138,9 +138,9 @@ Ele inclui exemplos simples e exercícios que abrangem diferentes conceitos e re
 Pré-requisitos
 Antes de começar a usar este projeto, você precisa ter o seguinte instalado:
 
-Node.js (versão X.X.X)
-npm (versão X.X.X)
-TypeScript (versão X.X.X)
+Node.js 
+npm 
+TypeScript 
 Instalação
 Siga as etapas abaixo para instalar e configurar o projeto:
 
