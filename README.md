@@ -61,7 +61,7 @@ If you have any questions or suggestions about this project, feel free to contac
 I hope this project is helpful for your TypeScript learning journey! 
 If you have any questions or need more information, feel free to ask.
 
-============================================================== FR ==========================================================
+======================================== FR ========================================
 Mon projet TypeScript
 Bienvenue dans mon projet TypeScript ! Ce référentiel contient le code source de mon projet, qui a été développé à l'aide de TypeScript.
 
@@ -125,7 +125,7 @@ Si vous avez des questions ou des suggestions sur ce projet, n'hésitez pas à m
 J'espère que ce projet vous sera utile pour votre parcours d'apprentissage de TypeScript ! 
 Si vous avez des questions ou avez besoin de plus d'informations, n'hésitez pas à demander.
 
-==============================================================PT-BR=========================================================
+============================================ PT-BR =======================================
 
 Meu Projeto TypeScript
 Bem-vindo ao meu projeto TypeScript! Este repositório contém o código fonte do meu projeto, que foi desenvolvido usando TypeScript.
