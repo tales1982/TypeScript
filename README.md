@@ -17,7 +17,7 @@ Follow the steps below to install and configure the project:
 Clone this repository on your local machine:
 bash
 Copy code
-git clone https://github.com/your-user/my-typescript-project.git
+git clone https://github.com/tales1982/TypeScript/tree/main
 Navigate to the project directory:
 bash
 Copy code
@@ -82,7 +82,7 @@ Suivez les étapes ci-dessous pour installer et configurer le projet :
 Clonez ce dépôt sur votre ordinateur local :
 frapper
 Copier le code
-git clone https://github.com/your-user/my-typescript-project.git
+git clone https://github.com/tales1982/TypeScript/tree/main
 Accédez au répertoire du projet :
 frapper
 Copier le code
@@ -147,7 +147,7 @@ Siga as etapas abaixo para instalar e configurar o projeto:
 Clone este repositório em sua máquina local:
 bash
 Copy code
-git clone https://github.com/seu-usuario/meu-projeto-typescript.git
+git clone https://github.com/tales1982/TypeScript/tree/main
 Navegue até o diretório do projeto:
 bash
 Copy code
