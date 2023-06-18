@@ -1,0 +1,9 @@
+{
+  "name": "Aula-13-symbol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
