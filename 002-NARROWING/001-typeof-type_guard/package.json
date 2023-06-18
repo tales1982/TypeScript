@@ -1,0 +1,12 @@
+{
+  "name": "001-typeof-type_guard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc-watch":"tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
