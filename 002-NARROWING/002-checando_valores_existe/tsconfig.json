@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2016",
+        "outDir": "dist",
+        "watch": true
+    },
+
+}

@@ -1,0 +1,12 @@
+{
+  "name": "002-checando_valores_existe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc-watch":"tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
