@@ -1,0 +1,12 @@
+{
+  "name": "Aula-10-typeAlias-X-interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc-watch":"tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
