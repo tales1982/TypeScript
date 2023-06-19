@@ -1,0 +1,12 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch":"tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
